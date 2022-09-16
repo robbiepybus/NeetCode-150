@@ -1,10 +1,4 @@
-s = "hello"
-t = "elloh"
-
-s = list(s)
-s.sort()
-t_split = list(t).sort()
-print(s)
-
-if s == t:
-    print("yeah")
+for i in range(5):
+    print(i)
+    if 1 == 1:
+        break

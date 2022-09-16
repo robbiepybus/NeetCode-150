@@ -1,7 +1,8 @@
 s = "hello"
-t = "ellh"
+t = "elloh"
 
 def isAnagram(s: str, t: str) -> bool:
+
     # return sorted(s) == sorted(t)
 
     # return Counter(s) == Counter(t)
